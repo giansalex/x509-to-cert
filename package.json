@@ -1,0 +1,18 @@
+{
+  "name": "x509-cert",
+  "version": "1.0.0",
+  "description": "Convert PFX/P12 to cert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "x509",
+    "tls"
+  ],
+  "author": "Giancarlos Salas <giansalex@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-forge": "~0.10.0"
+  }
+}
